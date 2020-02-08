@@ -117,7 +117,7 @@ $('#yes').click(function() {
                 text: "Tối nay về alo cho anh nhaaaaaaaaa :v Còn giờ thì chờ gì nữa mà ko inbox cho anh đi nàoooooo",
                 confirmButtonColor: '#83d0c9',
                 onClose: () => {
-                    window.location = 'http://fb.com/dat.chu.98';
+                    window.location = 'https://www.facebook.com/dat.chu.98';
                   }
             })
         }
